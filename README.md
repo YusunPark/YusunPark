@@ -1,9 +1,9 @@
 ### 🌵 Hi there 🌵
 
 **I'm Yusun Park.**
-Undergraduate of Hanyang Univ. ERICA. 
-Major in Industrial & Management Engineering 
-Double Major in Computer Science & Engineering 
+Undergraduate of Hanyang Univ. ERICA.  
+Major in Industrial & Management Engineering  
+Double Major in Computer Science & Engineering   
 
 
 <!--
