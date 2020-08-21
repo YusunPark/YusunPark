@@ -2,10 +2,10 @@
 
 **I'm Yusun Park.**  
 Undergraduate of Hanyang Univ. ERICA.  
-
-       Major  : Industrial & Management Engineering  
+```
+Major         : Industrial & Management Engineering  
 Double Major  : Computer Science & Engineering   
-
+```
 
 <!--
 **YusunPark/YusunPark** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
