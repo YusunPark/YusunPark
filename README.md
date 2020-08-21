@@ -1,5 +1,10 @@
 ### 🌵 Hi there 🌵
 
+**I'm Yusun Park.**
+Undergraduate of Hanyang Univ. ERICA. 
+Major in Industrial & Management Engineering 
+Double Major in Computer Science & Engineering 
+
 
 <!--
 **YusunPark/YusunPark** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
