@@ -1,6 +1,6 @@
 ### 🌵 Hi there 🌵
 
-**I'm Yusun Park.**  
+**I'm Yusun Park.**    
 Undergraduate of Hanyang Univ. ERICA.  
 ```
 Major         : Industrial & Management Engineering  
