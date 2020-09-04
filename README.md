@@ -1,11 +1,14 @@
 ### 🌵 Hi there 🌵
 
 **I'm Yusun Park.**    
-Undergraduate of Hanyang Univ. ERICA.  
+Undergraduate of Hanyang Univ. ERICA. 
+
 ```
 Major         : Industrial & Management Engineering  
 Double Major  : Computer Science & Engineering   
 ```
+
+[Portfolio](https://www.notion.so/yusunpark/Portfolio-10e84c4943e54f9dbfd2b2b14acde424)
 
 <!--
 **YusunPark/YusunPark** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
