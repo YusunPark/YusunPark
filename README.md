@@ -8,7 +8,7 @@ Major         : Industrial & Management Engineering
 Double Major  : Computer Science & Engineering   
 ```
 
-I've been learning `Vue.js` and `Python` lately.
+I've been learning `Vue.js`, `NativeScript` and `Python` lately.
 
 
 <!--
