@@ -11,7 +11,7 @@ Double Major  : Computer Science & Engineering
 I've been learning `Vue.js` and `Python` lately.
 
 
-<!--
+<!-- 
 It is my portfolio : [![Portfolio](http://img.shields.io/badge/-Portfolio-green?style=flat-square&link=https://www.notion.so/yusunpark/Portfolio-10e84c4943e54f9dbfd2b2b14acde424)](https://www.notion.so/yusunpark/Portfolio-10e84c4943e54f9dbfd2b2b14acde424) 
 
 
