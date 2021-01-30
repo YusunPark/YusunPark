@@ -1,4 +1,4 @@
-### 🌵 Hi there 🌵 
+### Hi there
 
 **I'm Yusun Park.**    
 Undergraduate of Hanyang Univ. ERICA. 
