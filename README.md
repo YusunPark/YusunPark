@@ -8,7 +8,7 @@ Major         : Industrial & Management Engineering
 Double Major  : Computer Science & Engineering   
 ```
 
-I've been learning `React.js` and `Data analysis' lately.
+I've been learning `React.js` and `Data analysis` lately.
 
 
 <!-- 
