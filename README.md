@@ -1,9 +1,8 @@
 ### Hi there
-[![solved.ac 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=solarpy)](https://solved.ac/solarpy)
 
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&section=header&height=270&section=header&text=Yusun%20Park&fontSize=90&fontAlignY=45&animation=fadeIn)
 
-**I'm Yusun Park**    
- Undergraduate of  Hanyang Univ. ERICA
+Undergraduate of  Hanyang Univ. ERICA
 
 ```
 Major         : Industrial & Management Engineering  
@@ -11,6 +10,11 @@ Double Major  : Computer Science & Engineering
 ```
 
 I've been learning `React.js` and `Data analysis` lately.
+
+
+<p>
+  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=solarpy&cache=c" width="35%">
+</p>
 
 
 <!-- 
