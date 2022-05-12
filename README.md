@@ -5,7 +5,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&section=header&height=270&section=header&text=Yusun%20Park&fontSize=90&fontAlignY=45&animation=fadeIn)
 
-Undergraduate of  Hanyang Univ. ERICA
+Undergraduate of Hanyang Univ. ERICA
 
 ```
 Major         : Industrial & Management Engineering  
